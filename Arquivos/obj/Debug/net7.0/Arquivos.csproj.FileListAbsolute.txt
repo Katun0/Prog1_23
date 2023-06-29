@@ -1,0 +1,15 @@
+C:\Users\usuario\Prog3_23\Prog3_23\arquivos\bin\Debug\net7.0\Arquivos.exe
+C:\Users\usuario\Prog3_23\Prog3_23\arquivos\bin\Debug\net7.0\Arquivos.deps.json
+C:\Users\usuario\Prog3_23\Prog3_23\arquivos\bin\Debug\net7.0\Arquivos.runtimeconfig.json
+C:\Users\usuario\Prog3_23\Prog3_23\arquivos\bin\Debug\net7.0\Arquivos.dll
+C:\Users\usuario\Prog3_23\Prog3_23\arquivos\bin\Debug\net7.0\Arquivos.pdb
+C:\Users\usuario\Prog3_23\Prog3_23\arquivos\obj\Debug\net7.0\Arquivos.csproj.AssemblyReference.cache
+C:\Users\usuario\Prog3_23\Prog3_23\arquivos\obj\Debug\net7.0\Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Prog3_23\Prog3_23\arquivos\obj\Debug\net7.0\Arquivos.AssemblyInfoInputs.cache
+C:\Users\usuario\Prog3_23\Prog3_23\arquivos\obj\Debug\net7.0\Arquivos.AssemblyInfo.cs
+C:\Users\usuario\Prog3_23\Prog3_23\arquivos\obj\Debug\net7.0\Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Prog3_23\Prog3_23\arquivos\obj\Debug\net7.0\Arquivos.dll
+C:\Users\usuario\Prog3_23\Prog3_23\arquivos\obj\Debug\net7.0\refint\Arquivos.dll
+C:\Users\usuario\Prog3_23\Prog3_23\arquivos\obj\Debug\net7.0\Arquivos.pdb
+C:\Users\usuario\Prog3_23\Prog3_23\arquivos\obj\Debug\net7.0\Arquivos.genruntimeconfig.cache
+C:\Users\usuario\Prog3_23\Prog3_23\arquivos\obj\Debug\net7.0\ref\Arquivos.dll

@@ -1,0 +1,15 @@
+C:\Users\usuario\Prog3_23\Prog3_23\ativ02\bin\Debug\net7.0\ativ02.exe
+C:\Users\usuario\Prog3_23\Prog3_23\ativ02\bin\Debug\net7.0\ativ02.deps.json
+C:\Users\usuario\Prog3_23\Prog3_23\ativ02\bin\Debug\net7.0\ativ02.runtimeconfig.json
+C:\Users\usuario\Prog3_23\Prog3_23\ativ02\bin\Debug\net7.0\ativ02.dll
+C:\Users\usuario\Prog3_23\Prog3_23\ativ02\bin\Debug\net7.0\ativ02.pdb
+C:\Users\usuario\Prog3_23\Prog3_23\ativ02\obj\Debug\net7.0\ativ02.csproj.AssemblyReference.cache
+C:\Users\usuario\Prog3_23\Prog3_23\ativ02\obj\Debug\net7.0\ativ02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Prog3_23\Prog3_23\ativ02\obj\Debug\net7.0\ativ02.AssemblyInfoInputs.cache
+C:\Users\usuario\Prog3_23\Prog3_23\ativ02\obj\Debug\net7.0\ativ02.AssemblyInfo.cs
+C:\Users\usuario\Prog3_23\Prog3_23\ativ02\obj\Debug\net7.0\ativ02.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Prog3_23\Prog3_23\ativ02\obj\Debug\net7.0\ativ02.dll
+C:\Users\usuario\Prog3_23\Prog3_23\ativ02\obj\Debug\net7.0\refint\ativ02.dll
+C:\Users\usuario\Prog3_23\Prog3_23\ativ02\obj\Debug\net7.0\ativ02.pdb
+C:\Users\usuario\Prog3_23\Prog3_23\ativ02\obj\Debug\net7.0\ativ02.genruntimeconfig.cache
+C:\Users\usuario\Prog3_23\Prog3_23\ativ02\obj\Debug\net7.0\ref\ativ02.dll
